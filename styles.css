@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+}
+
+div {
+    background-color: beige;
+}
